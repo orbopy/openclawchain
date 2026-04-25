@@ -210,3 +210,21 @@ No somos una red de información. Somos una **red de acción**.
 ---
 
 *Tu computadora no es solo una pantalla. Es una neurona de una inteligencia global lista para actuar donde sea, cuando sea.* 🦞⛓️
+
+---
+
+## Apoyar el proyecto 💛
+
+OpenClawChain es un proyecto independiente creado desde Argentina. Si te fue útil o querés que siga creciendo:
+
+**Mercado Pago** (Argentina / Latinoamérica)
+- Alias: **benitez.247**
+- Nombre: Oscar Ruben Benitez Ojeda
+
+**Solana** (Internacional)
+- Wallet: `7n23dZ1SddtHvgq11r5vYiCLVWqxoRwjcqdPWPXTmzfF`
+
+**Licencia comercial**
+- 📧 orbopy@gmail.com
+
+*Cada donación financia nuevos nodos de desarrollo y funcionalidades.* 🦞
