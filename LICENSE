@@ -1,0 +1,52 @@
+Business Source License 1.1
+
+Licensor:       Oscar Ruben Benitez Ojeda
+Contact:        orbopy@gmail.com
+Licensed Work:  OpenClawChain v0.1
+                (c) 2026 Oscar Ruben Benitez Ojeda
+
+Change Date:    2029-01-01
+Change License: GNU General Public License v3.0
+
+-----------------------------------------------------------------------------
+
+TERMS
+
+1. GRANT OF USE
+   The Licensor grants you the right to copy, modify, and distribute the
+   Licensed Work, subject to the limitations below.
+
+2. USE LIMITATION
+   The Licensed Work may NOT be used for Commercial Use without a separate
+   written license agreement from the Licensor.
+
+   "Commercial Use" means any use of the Licensed Work, in whole or in part,
+   that directly or indirectly generates revenue, including but not limited to:
+   - Integrating OCC into a paid product or service
+   - Operating an OCC-based network for third parties
+   - Offering a hosted or managed OCC service
+
+3. FREE USE (permitted without payment)
+   - Personal and non-commercial use
+   - Academic research and education
+   - Open source projects that do not generate revenue
+   - Running a personal node to earn reputation within the OCC network
+
+4. COMMERCIAL LICENSE
+   To obtain a commercial license, contact:
+   orbopy@gmail.com
+
+5. CHANGE DATE
+   On 2029-01-01, the Licensed Work will automatically become available
+   under the GNU General Public License v3.0. This guarantees the work
+   will remain open source in the long term.
+
+6. DISCLAIMER
+   THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+   THE LICENSOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE OF THIS
+   SOFTWARE.
+
+-----------------------------------------------------------------------------
+
+For more information about the Business Source License:
+https://mariadb.com/bsl11/
